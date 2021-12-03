@@ -9,3 +9,5 @@
 
 Файл results.zip доступен по ссылке
 https://drive.google.com/file/d/1uefCPAABvL09n6SURAgolH4DAJTbShgE/view?usp=sharing
+
+В проекте настроен автоматический деплоймент веб-интерфейса на хостинг Heroku через GitHub Actions. После каждого push в репозиторий запускается скрипт, который собирает Streamlit-приложение и выкладывает его на хостинг по адресу https://cithyp.herokuapp.com/
