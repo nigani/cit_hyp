@@ -1,1 +1,1 @@
-web: sh streamlit_wrap/setup.sh && streamlit run streamlit_wrap/main.py
+web: sh setup.sh && streamlit run streamlit_wrap/main.py
